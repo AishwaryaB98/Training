@@ -1,0 +1,521 @@
+ git -v
+  708  sudo apt install git
+  709  git
+  710  git -v
+  711  git
+  712  git -v
+  713  sudo get-apt update
+  714  sudo apt update
+  715  git -v
+  716  sudo apt get update
+  717  sudo apt-get update
+  718  sudo apt install git
+  719  git -v
+  720  git -version
+  721  git -v
+  722  git --version
+  723  mkdir training
+  724  cd trainng
+  725  cd training
+  726  vim
+  727  sudo apt install vim
+  728  git init
+  729  cd..
+  730  cd ..
+  731  git init
+  732  cd training
+  733  git init
+  734  git
+  735  git init
+  736  mkdir my_name
+  737  vim myfile.txt
+  738  cd training
+  739  git init
+  740  ls -ltr
+  741  git log
+  742  git add my_file.txt
+  743  git add myfile.txt
+  744  git status
+  745  git add myfile.txt
+  746  git status
+  747  git commit -m "first message"
+  748  git config --global user.name "aishwarya"
+  749  git config --global user.name "aishwaryabahirat64@gmail.com"
+  750  git commit -m "first message"
+  751  git config --global user.name "aishwarya"
+  752  git config --global user.name aishwaryabahirat64@gmail.com
+  753  git commit -m "first message"
+  754  git config --global user.name "aishwarya"
+  755  git config --global user.name aishwarya@gmail.com
+  756  git commit -m "first message"
+  757  clear
+  758  git config --global user.name "aishwarya"
+  759  git config --global user.email aishwarya@gmail.com
+  760  git commit -m "first message"
+  761  history
+  762  git commit -m "second message"
+  763  git commit -m "first message"
+  764  git log
+  765  vim myfile.txt
+  766  git status
+  767  git commit -a
+  768  nano myfile.txt
+  769  git status
+  770  nano myfile.txt
+  771  git status
+  772  git log
+  773  git commit "second message"
+  774  git commit -m "second message"
+  775  git log
+  776  git add myfile.txt
+  777  git commit -m "second message"
+  778  git log
+  779  git remote add origin https://github.com/AishwaryaB98/Training.git
+  780  git push -u origin master
+  781  it remote add origin https://github.com/AishwaryaB98/Training.git
+  782  git remote add origin https://github.com/AishwaryaB98/Training.git
+  783  git push -u origin master
+  784  ls -la
+  785  git remote add origin https://github.com/AishwaryaB98/Training.git
+  786  git push -u origin master
+  787  ls -la
+  788  git log
+  789  git add myfile.txt
+  790  git status
+  791  git commit -m "third message"
+  792  git log
+  793  git status
+  794  ls -la
+  795  git remote add origin https://github.com/AishwaryaB98/Training.git
+  796  git pull
+  797  git status
+  798  git log
+  799  git clone https://github.com/nanzi023/Training-
+  800  git status
+  801  git log
+  802  git stash
+  803  git remote add origin https://github.com/AishwaryaB98/Training.git
+  804  git push -u origin master
+  805  cd training
+  806  git remote add origin https://github.com/AishwaryaB98/Training.git
+  807  git push -u origin master
+  808  git remote add origin https://github.com/AishwaryaB98/Training.git
+  809  git push -u origin master
+  810  git stash
+  811  git pull origin
+  812  ifconfig
+  813  ps
+  814  pstree
+  815  pstree|grep basg
+  816  pstree|grep bash
+  817  ps
+  818  pstree
+  819  htop
+  820  sudo apt install htop
+  821  htop
+  822  top
+  823  pkill firefox
+  824  top
+  825  whatis pkill
+  826  pkill firefox
+  827  htop
+  828  dpkg -i gitkraken-amd64.deb
+  829  sudo su
+  830  man apt-get && man apt-cache
+  831  history
+  832  history |grep mkdir
+  833  vim family.sh
+  834  cd family
+  835  rree
+  836  tree
+  837  ls -ltr
+  838  cd ..
+  839  sh fam
+  840  cd fam
+  841  bc
+  842  rm new
+  843  ifconfig
+  844  ssh service stop
+  845  netstat
+  846  traceroute
+  847  sudo apt install traceroute
+  848  sudo su
+  849  netstat
+  850  netstat |grep 80
+  851  netstat -amp|grep 80
+  852  netstat |grep 80
+  853  netstat -anp|grep 80
+  854  netstat -anp|wc -l
+  855  ifconfig
+  856  traceroute
+  857  sudo apt install traceroute
+  858  sudo su
+  859  sudo apt install traceroute
+  860  sudo apt-install traceroute
+  861  sudo install traceroute
+  862  sudo apt-install traceroute
+  863  sudo apt install traceroute
+  864  traceroute www.google.co.in
+  865  bash
+  866  netconf
+  867  sudo apt install netconf
+  868  ipchains
+  869  12AS3 4Df%g^h&j
+  870  yum install VirtualBox-6.0
+  871  sudo apt-get update
+  872  sudo apt-get install virtualbox-6.0
+  873  pwd
+  874  whoami
+  875  id
+  876  man whoami
+  877  ls -ltr
+  878  dir home
+  879  dir Downloads
+  880  find .txt -name "filename"
+  881  find .l -name "lex"
+  882  find lex.l -name "lex"
+  883  find . -name "lex"
+  884  find . -name virtual
+  885  find . -name lex.l
+  886  dir 
+  887  whatis ls
+  888  whatis man
+  889  which ls
+  890  which man
+  891  20312222222222222222222222222.
+  892  rm a1
+  893  touch a1
+  894  mkdir father
+  895  cd father
+  896  mkdir son
+  897  rm dir father
+  898  rmdir father
+  899  cd ..
+  900  rmdir father
+  901  mkdir family
+  902  cd family
+  903  mkdir father
+  904  mkdir mother
+  905  cd father
+  906  mkdir son
+  907  cd mother
+  908  cd ..
+  909  cd mother
+  910  mkdir daughter
+  911  cd ..
+  912  tree
+  913  sudo apt install tree
+  914  tree
+  915  cd father
+  916  cd family/father/son
+  917  rm newfile
+  918  newfile
+  919  touch myfile.exe
+  920  rename my_file.exe
+  921  sudo apt install rename
+  922  rename my_file.exe
+  923  cd ~
+  924  tail lex.l
+  925  tail a.out
+  926  tail -f syslog
+  927  cat a1.txt
+  928  tac a1.txt
+  929  tail a1
+  930  tail -f a1
+  931  tail -f a1.txt
+  932  cat a1.txt
+  933  cat a1.txt|more
+  934  tail -f a1.txt
+  935  cat a1.txt
+  936  tac a1/txt
+  937  tac a1.txt
+  938  cat a1.txt
+  939  history
+  940  find . -name syslog
+  941  sudo su
+  942  cd /var/log
+  943  cd ~
+  944  cd -
+  945  tail -f syslog
+  946  cd ~
+  947  cd /boot
+  948  tree
+  949  whatis ls
+  950  cd ~
+  951  whatis w
+  952  w
+  953  sudo su
+  954  vi new.txt
+  955  vi -r new.txt
+  956  vi -r new1.txt
+  957  vi new.txt
+  958  whatis wq
+  959  vi -r new.txt
+  960  vi -r new
+  961  vi new
+  962  vi -r new
+  963  ++++++++++++++++++++
+  964  +++++++++++++++
+  965  ++
+  966  aks
+  967  ++
+  968  aks
+  969  ps -ef|grep java
+  970  ps -ef | grep firefox
+  971  ps -ef | grep chrome
+  972  ps -ef | grep amazon
+  973  ps -ef|grep amazon
+  974  grep -r "myfile*"
+  975  ssh
+  976  ssh username 172.22.118.160
+  977  ssh ushername 172.22.118.160
+  978  ssh username 172.22.118.160
+  979  ping 172.22.118.160
+  980  ifconfig
+  981  ipconfig
+  982  ifconfig
+  983  sudo apt install net-tools
+  984  ifconfig
+  985  ssh username soe5445
+  986  ssh username 172.22.118.160
+  987  ssh username soe5445
+  988  ssj
+  989  ssh
+  990  sidp service ssh start
+  991  sudo apt install ssh
+  992  sidp service ssh start
+  993  sudo service ssh start
+  994  ifconfig
+  995  ssh 172.22.118.160
+  996  sudo service ssh start
+  997  ssh username 172.22.118.160
+  998  ssh  172.22.118.160
+  999  ifconfig
+ 1000  ssh  172.22.118.160
+ 1001  sudo service ssh start
+ 1002  ssh  soe5445@172.22.118.160
+ 1003  cim family.sh
+ 1004  vim family.sh
+ 1005  cd family
+ 1006  tree
+ 1007  cd ..
+ 1008  index.htm
+ 1009  family1
+ 1010  ls -ltr
+ 1011  vagrant -v
+ 1012  sudo apt install vagrant
+ 1013  vagrant -version
+ 1014  vagrant
+ 1015  vagrant -v
+ 1016  vagrant init hashicorp/boot2docker
+ 1017  vagrant up
+ 1018  VBoxManage --version
+ 1019  vagrant up
+ 1020  VirtualBox --version
+ 1021  vagrant up
+ 1022  VBoxManage --version
+ 1023  vagrant up
+ 1024  VBoxManage --version
+ 1025  cd /sbin/vboxconfig
+ 1026  vagrant up
+ 1027  VBoxManage --version
+ 1028  vagrant up
+ 1029  VBoxManage --version
+ 1030  vagrant up
+ 1031  VBoxManage --version
+ 1032  uname -
+ 1033  uname -a
+ 1034  sudo /sbin/rcvboxdrv setup
+ 1035  dmesg
+ 1036  sudo reboot
+ 1037  pwd
+ 1038  ls -ltr
+ 1039  mkdir test
+ 1040  mv Vagrantfile test
+ 1041  cd test/
+ 1042  vagrant up
+ 1043  VBoxManage --version
+ 1044  sudo apt install -f
+ 1045  sudo /etc/init.d/vboxdrv setup
+ 1046  vagrant up
+ 1047  sudo /sbin/rcvboxdrv setup
+ 1048  sudo apt-get install dkms
+ 1049  reboot
+ 1050  vagrant up
+ 1051  vagrant init
+ 1052  vagrant up
+ 1053  VBoxManage --version
+ 1054  sudo /sbin/vboxconfig
+ 1055  sudo su
+ 1056  ls -ltr
+ 1057  cd test/
+ 1058  vagrant up
+ 1059  sudo /sbin/vboxconfig
+ 1060  vagrant up
+ 1061  sudo vagrant stop
+ 1062  vagrant restart
+ 1063  vagrant reload
+ 1064  vagrant up
+ 1065  sudo /sbin/rcvboxdrv setup
+ 1066  vagrant up
+ 1067  service libvirtd restart
+ 1068  /etc/init.d/libvirt restart
+ 1069  virtualbox
+ 1070  history
+ 1071  sudo /etc/init.d/vboxdrv setup
+ 1072  vagrant up
+ 1073  systemctl start libvirtd
+ 1074  virsh 'net-list '
+ 1075  sudo apt install libvirt-clients
+ 1076  vagrant up
+ 1077  reboot
+ 1078  vagrant -v
+ 1079  vagrant up
+ 1080  vagrant plugin install vagrant-libvirt
+ 1081  vagrant up
+ 1082  sudo /etc/init.d/sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virt-manager
+ 1083  sudo /etc/init.d/libvirtd restart
+ 1084  vagrant up
+ 1085  sudo /etc/init.d/
+ 1086  sudo apt install qemu-kvm libvirt-clients libvirt-daemon-system bridge-utils virt-manager
+ 1087  sudo adduser pavel libvirt
+ 1088  vagrant up
+ 1089  sudo su
+ 1090  vagrant up
+ 1091  cd ~/.vagrant
+ 1092  ls -tlr
+ 1093  cd ..
+ 1094  rm -rf .vagrant
+ 1095  cler
+ 1096  clear
+ 1097  ls -lt
+ 1098  mkdir vagrant-test
+ 1099  cd vagrant-test/
+ 1100  ls -lt
+ 1101  vagrant init
+ 1102  vagrant up
+ 1103  vim Vagrantfile 
+ 1104  vagrant provision
+ 1105  vagrant up
+ 1106  vim Vagrantfile 
+ 1107  vagrant up
+ 1108  sudo apt-get remove virtualbox
+ 1109  dpkg remove virtualbox
+ 1110  apt-get remove virtualbox
+ 1111  sudo rm /var/lib/apt/lists/lock
+ 1112  apt-get remove virtualbox
+ 1113  sudo rm /var/cache/apt/archives/lock
+ 1114  sudo rm /var/lib/dpkg/lock
+ 1115  apt-get remove virtualbox
+ 1116  sudo apt-get remove virtualbox
+ 1117  sudo apt-get remove virtual-box
+ 1118  sudo apt-get search virtual
+ 1119  sudo apt search v
+ 1120  sudo apt search virtual
+ 1121  sudo apt search virtual |grep box
+ 1122  cd ~
+ 1123  cd Downloads/
+ 1124  ls -ltr
+ 1125  dpkg remove virtualbox
+ 1126  dpkg -r virtualbox
+ 1127  sudo dpkg -r virtualbox
+ 1128  sudo dpkg -r virtualbox6
+ 1129  apt list --installed | grep virtualbox
+ 1130  sudo dpkg -r virtualbox-6.0
+ 1131  sudo dpkg -r virtualbox-6.0  --purge
+ 1132  sudo dpkg -r --purge virtualbox-6.0 
+ 1133  sudo dpkg --purge virtualbox-6.0 
+ 1134  sudo dpkg -i virtualbox-5.2_5.2.26-128414~Ubuntu~bionic_amd64.deb 
+ 1135  cd ~/vagrant-test/
+ 1136  vagrant up
+ 1137  cd ~/Downloads/
+ 1138  sudo dpkg -i virtualbox-5.2_5.2.26-128414~Ubuntu~bionic_amd64.deb 
+ 1139  cd Downloads
+ 1140  sudo dpkg -i virtualbox-5.2_5.2.26-128414~Ubuntu~bionic_amd64.deb 
+ 1141  vagrant up
+ 1142  sudo dpkg -i virtualbox-5.2_5.2.26-128414~Ubuntu~bionic_amd64.deb 
+ 1143  vagrant up
+ 1144  cd base
+ 1145  cd /base
+ 1146  sudo dpkg -i virtualbox-5.2_5.2.26-128414~Ubuntu~bionic_amd64.deb 
+ 1147  cd ..
+ 1148  cd vagrant-test/
+ 1149  vagrant up
+ 1150  rm Vagrantfile 
+ 1151  vagrant init
+ 1152  vim Vagrantfile 
+ 1153  vagrant up
+ 1154  vagrant provision
+ 1155  vagrant up
+ 1156  vagrant ssh
+ 1157  exit
+ 1158  cd ~
+ 1159  systat
+ 1160  sysstat
+ 1161  sudo apt install sysstat
+ 1162  cat sysstat.yml
+ 1163  cat site.yml
+ 1164  echo "[group]" > myhosts
+ 1165  echo "host01 ansible_ssh_user=ubuntu" >> myhosts
+ 1166  vi myhosts
+ 1167  ansible group1 -i myhosts -m command -a dte
+ 1168  sudo apt install ansible
+ 1169  ansible group1 -i myhosts -m command -a dte
+ 1170  ansible group1 -i myhosts -m command -a date
+ 1171  vi myhosts
+ 1172  ansible group1 -i myhosts -m command -a date
+ 1173  ssh-keygen -t rsa -C "aishwaryabahirat64@gmail.com"
+ 1174  vim ~/.ssh/id_rsa.pub
+ 1175  ssh soe5445@172.22.118.160
+ 1176  ssh soe5444@172.22.118.111
+ 1177  vim ~/.ssh/id_rsa.pub
+ 1178  ssh soe5444@172.22.118.111
+ 1179  ssh soe5445@172.22.118.160
+ 1180  ssh soe5444@172.22.118.111
+ 1181  vim ~/.ssh/id_rsa.pub
+ 1182  ssh soe5445@172.22.118.160
+ 1183  ssh-keygen -t rsa -b 4096 -C "aishwaryabahirat64@gmail.com"
+ 1184  vim ~/.ssh/id_rsa.pub
+ 1185  exit
+ 1186  vim ~/.ssh/id_rsa.pub 
+ 1187  ssh soe5445@172.22.118.160
+ 1188  ssh -v soe5445@172.22.118.160
+ 1189  cd ~
+ 1190  ssh-keygen -o -t rsa -b 4096 -C "email@example.com"
+ 1191  vim ~/.ssh/id_rsa.pub 
+ 1192   
+ 1193  ansible all -m ping  
+ 1194  vim /etc/ansible/hosts 
+ 1195  sudo vim /etc/ansible/hosts 
+ 1196  ansible all -m ping  
+ 1197  vim /etc/ansible/hosts 
+ 1198  sudo vim /etc/ansible/hosts 
+ 1199  ansible all -m ping  
+ 1200  ssh -v soe5444@172.22.118.111
+ 1201  vim /etc/ansible/hosts 
+ 1202  vim -w /etc/ansible/hosts 
+ 1203  vim -rw /etc/ansible/hosts 
+ 1204  vim /etc/ansible/hosts 
+ 1205  sudo vim /etc/ansible/hosts 
+ 1206  ssh -v soe5444@172.22.118.111
+ 1207  cd ~
+ 1208  ssh  soe5445@172.22.118.160
+ 1209  ansible all -m shell -a ls
+ 1210  mkdir friends
+ 1211  cd friends
+ 1212  cd ~
+ 1213  ansible soe5445 -m yum -a "name=nginx state=latest"
+ 1214  ansible host01 -m yum -a "name=nginx state=latest"
+ 1215  ansible all -m shell -a ls
+ 1216  ansible soe5445 -m yum -a "name=nginx state=latest"
+ 1217  ansible soe5445 -m apt -a "name=nginx state=latest"
+ 1218  sudo vim /etc/ansible/hosts 
+ 1219  ssh -v soe5444@172.22.118.111
+ 1220  ssh soe5444@172.22.118.111
+ 1221  vim /etc/ansible/hosts 
+ 1222  ssh soe5444@172.22.118.111
+ 1223  java
+ 1224  ansible all -m shell -a java -version
+ 1225  ssh -v soe5445@172.22.118.160
+ 1226  history
+
